@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alauddin Ahmed</h1>
-<h3 align="center">A JavaScript Software Engineer from Bangladesh who has been working with React Native development almost 2 years now.</h3>
+<h3 align="center">A JavaScript Software Engineer from Bangladesh who has been working with React Native development almost 2 years and Web development 5 years.</h3>
 
 - 🔭 I’m currently working on **NITRX (Mobile Application)**
 
@@ -24,4 +24,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsaladin&show_icons=true&locale=en&layout=compact" alt="itsaladin" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsaladin&show_icons=true&locale=en" alt="itsaladin" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=itsaladin&show_icons=true&locale=en" alt="itsaladin" /></p>

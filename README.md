@@ -1,28 +1,27 @@
-## Hello there, I'm ALAUDDIN AHMED 👋!
+<h1 align="center">Hi 👋, I'm Alauddin Ahmed</h1>
+<h3 align="center">A JavaScript Software Engineer from Bangladesh who has been working with React Native development almost 2 years now.</h3>
 
-A Senior Software Engineer / Tech Lead from Brazil who has been working with React Native on a daily-basis for almost 4 years now, which gave me the experience to build high quality solutions for the most diverse and complex problems out there. Throughout my career i was able to get in touch with incredible challenges such as:
+- 🔭 I’m currently working on **NITRX (Mobile Application)**
 
-- As a Mobile Tech Lead, I had the mission to refactor almost completely (99%) the App of one of the biggest private-label card brands on Brazil. An incredible case of success. - [Cartão de TODOS](https://cartaodetodos.com.br/)
-- As a Senior Engineer, I had the mission to build and architecture a bank from scratch for one of the biggest companies on the clothing segment on Brazil (Riachuelo) and get it approved by the central bank on a really tight deadline - [Midway](https://www.midway.com.br/)
-- As a Senior Engineer, I had the role to be the senior/principal developer of the first brazilian team of one of the biggest fintechs here - [RecargaPay](https://recargapay.com.br/)
-- As a Mid Engineer, I had the mission to build and architecture a VoD/live streaming platform for one of the biggest companies on the cosmetics segment - [WellaEdu](https://www.wellaedu.com.br/)
+- 🌱 I’m currently learning **Node.js, express.js**
 
-#### These are some of the most remarkable, but only a short part of the list! :D
+- 🤝 I’m looking for help with **TypeScript**
 
-Aside from paid projects, I love to create some libs/packages that can help others solve problems that I once had. Already with 10k+ downloads, check them out below:
+- 💬 Ask me about **React, React Native, JavaScript**
 
-- [React Native Animated Progress](https://github.com/kcotias/react-native-animated-progress)
-- [React Native Gesture Bottom Sheet](https://github.com/kcotias/react-native-gesture-bottom-sheet)
-- [React Native Animated Input](https://github.com/kcotias/react-native-animated-input)
+- 📫 How to reach me **https://www.facebook.com/alauddin7888/**
 
-### Follow me for more, and remember to leave a star 😊
+- ⚡ Fun fact **playing with multiply game like PUBG, FREE-FIRE**
 
-<p>
-  <img alt="React Native" src="https://img.shields.io/badge/-React_Native-45b8d8?style=flat-rounded&logo=react&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-20242a?style=flat-rounded&logo=react&logoColor=61dafb" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-rounded&logo=git&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-rounded&logo=styled-components&logoColor=white" />
-  <img alt="Figma" src="https://img.shields.io/badge/-Figma-111111?style=flat-rounded&logo=Figma&logoColor=white" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/alauddin-ahmed12340" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alauddin-ahmed12340" height="30" width="40" /></a>
+<a href="https://fb.com/alauddin7888" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alauddin7888" height="30" width="40" /></a>
 </p>
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kcotias&show_icons=true&theme=vue-dark&count_private=true" />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsaladin&show_icons=true&locale=en&layout=compact" alt="itsaladin" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsaladin&show_icons=true&locale=en" alt="itsaladin" /></p>

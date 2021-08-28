@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **https://www.facebook.com/alauddin7888/**
 
-- ⚡ Fun fact **playing with multiply game like PUBG, FREE-FIRE**
+- ⚡ Fun fact **playing with multiplay game like PUBG, FREE-FIRE**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

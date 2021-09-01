@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alauddin Ahmed</h1>
 <h3 align="center">A JavaScript Software Engineer from Bangladesh who has been working with React Native development almost 2 years and Web development 5 years.</h3>
 
-- 🔭 I’m currently working on **NITRX (Mobile Application)**
+- 🔭 I’m currently working on **iBOS (An AKIJ Company)**
 
 - 🌱 I’m currently learning **Node.js, express.js**
 

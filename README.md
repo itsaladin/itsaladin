@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **<a href="https://www.facebook.com/iboslimited/" target="blank">iBOS (An AKIJ Company)</a>**
 
-- 🌱 I’m currently learning **Node.js, express.js**
+- 🌱 I’m currently learning **Deep Learning and Neural Networks for Research Papers Publication**
 
 - 🤝 I’m looking for help with **TypeScript**
 

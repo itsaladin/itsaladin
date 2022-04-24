@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React, React Native, JavaScript**
 
-- 📫 How to reach me **https://www.facebook.com/alauddin7888/**
+- 📫 How to reach me **https://www.linkedin.com/in/alauddin-ahmed12340/**
 
 - ⚡ Fun fact **playing with multiplay game like PUBG, FREE-FIRE**
 

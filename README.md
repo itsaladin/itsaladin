@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alauddin Ahmed</h1>
 <h3 align="center">A JavaScript Software Engineer from Bangladesh who has been working with React Native development almost 2 years and Web development 5 years.</h3>
 
-- 🔭 I’m currently working on **<a href="https://www.facebook.com/iboslimited/" target="blank">iBOS Limited (An AKIJ Company)</a>**
+- 🔭 I’m currently working on **<a href="" target="blank">Aladdin Studios</a>**
+
+- 🔭 I’m worked on **<a href="https://www.facebook.com/iboslimited/" target="blank">iBOS Limited (An AKIJ Company)</a>**
 
 - 🌱 I’m currently learning **Deep Learning and Neural Networks for Research Papers Publication**
 

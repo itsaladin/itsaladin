@@ -5,6 +5,8 @@
 
 - 🔭 I’m worked on **<a href="https://www.facebook.com/iboslimited/" target="blank">iBOS Limited (An AKIJ Company)</a>**
 
+- 🔭 I’m worked on **<a href="https://staritltd.com/" target="blank">Star It Limited</a>**
+
 - 🌱 I’m currently learning **Deep Learning and Neural Networks for Research Papers Publication**
 
 - 🤝 I’m looking for help with **TypeScript**
@@ -13,7 +15,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/alauddin-ahmed12340/**
 
-- ⚡ Fun fact **playing with multiplay game like PUBG, FREE-FIRE**
+- ⚡ Fun fact **playing with multiplayer game like PUBG, FREE-FIRE**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

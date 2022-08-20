@@ -3,13 +3,13 @@
 
 - ⚡ I’m currently working on **<a href="" target="blank">Aladdin Studios</a>**
 
-- 🔭 I’m worked on **<a href="https://www.facebook.com/iboslimited/" target="blank">iBOS Limited (An AKIJ Company)</a>**
+- 🔭 I have worked on **<a href="https://www.facebook.com/iboslimited/" target="blank">iBOS Limited (An AKIJ Company)</a>**
 
-- 🔭 I’m worked on **<a href="https://staritltd.com/" target="blank">Star It Limited</a>**
+- 🔭 I have worked on **<a href="https://staritltd.com/" target="blank">Star It Limited</a>**
 
-- 🌱 I’m currently learning **Deep Learning and Neural Networks for Research Papers Publication**
+- 🌱 I have currently learning **Deep Learning and Neural Networks for Research Papers Publication**
 
-- 🤝 I’m looking for help with **TypeScript**
+- 🤝 I have looking for help with **TypeScript**
 
 - 💬 Ask me about **React, React Native, JavaScript**
 

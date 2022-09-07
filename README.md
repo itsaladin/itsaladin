@@ -7,9 +7,9 @@
 
 - 🔭 I have worked on **<a href="https://staritltd.com/" target="blank">Star It Limited</a>**
 
-- 🌱 I have currently learning **Deep Learning and Neural Networks for Research Papers Publication**
+- 🌱 I am currently learning **Deep Learning and Neural Networks for Research Papers Publication**
 
-- 🤝 I have looking for help with **TypeScript**
+- 🤝 I am looking for help with **TypeScript**
 
 - 💬 Ask me about **React, React Native, JavaScript**
 

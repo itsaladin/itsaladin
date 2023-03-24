@@ -29,3 +29,15 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsaladin&show_icons=true&theme=dark&locale=en&layout=compact" alt="itsaladin" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsaladin&show_icons=true&theme=dark&title_color=000000&locale=en" alt="itsaladin" /></p>
+
+<br/>
+<br/>
+<br/>
+
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=itsaladin">
+</a>
+<a href="https://github.com/itsaladin?tab=followers"><img src="https://img.shields.io/github/followers/itsaladin?label=Followers&style=social" alt="GitHub Badge"></a>
+  
+![Snake animation](https://github.com/itsaladin/itsaladin/blob/output/github-contribution-grid-snake.svg)

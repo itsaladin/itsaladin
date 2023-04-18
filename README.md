@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **React, React Native, JavaScript**
 
-- 📫 How to reach me **https://www.linkedin.com/in/alauddin-ahmed12340/**
+<!-- - 📫 How to reach me **https://www.linkedin.com/in/alauddin-ahmed12340/** -->
 
 - ⚡ Fun fact **playing with multiplayer game like PUBG, FREE-FIRE**
 
